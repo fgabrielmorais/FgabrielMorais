@@ -1,9 +1,6 @@
 ### Bem vindo(a) ao meu perfil 👋
-
-[Link do um trabalho feito por mim](https://etim-2021.000webhostapp.com/index.html) 
-
-
-### NOME: Gabriel Morais Félix
+ 
+### NOME: Gabriel Morais Felix
 
 
 <!--
