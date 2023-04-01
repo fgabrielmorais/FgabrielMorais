@@ -4,4 +4,6 @@
 
 ![fgabrielmorais GitHub stats](https://github-readme-stats.vercel.app/api?username=fgabrielmorais&show_icons=true&theme=radical)
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgabrielmorais&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
