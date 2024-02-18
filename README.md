@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel! ✍️
 
 ### Formado na Etec Antônio Devisate - Desenvolvimento de Sistemas
-[![Gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](fgabrielmorais05@gmail.com)
+<a href="mailto:fgabrielmorais05@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-f%C3%A9lix-017152286/)
 
 
