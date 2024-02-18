@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel! ✍️
 
-### Aluno da Etec Antônio Devisate
+### Formado na Etec Antônio Devisate - Desenvolvimento de Sistemas
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fgabrielmorais/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-f%C3%A9lix-017152286/)
 
