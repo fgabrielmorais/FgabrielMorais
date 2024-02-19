@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Bem-vindo(a), me chamo Gabriel</h1>
+<h1 align="center">Olá! Me chamo Gabriel</h1>
 <h3 align="center">Desenvolvedor</h3>
 
 - 📫 Contato: **fgabrielmorais05@gmail.com**
