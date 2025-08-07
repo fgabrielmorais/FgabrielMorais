@@ -13,13 +13,9 @@
   <a href="https://www.linkedin.com/in/gabriel-morais-felix-017152286/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <span style="margin-right: 20px; margin-bottom: 100px;">Gabriel Morais Felix</span>
-
-
   <a href="https://instagram.com/fgabrielmorais" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <span>fgabrielmorais</span>
 </p>
 
 
